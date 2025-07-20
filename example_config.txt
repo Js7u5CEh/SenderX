@@ -1,0 +1,6 @@
+# Пример конфигурации аккаунтов для рассылки в TeleSender
+# Каждая строка — это отдельный аккаунт
+# Формат: session_name=...;api_id=...;api_hash=...;my_name=...
+
+session_name=sender1;api_id=123456;api_hash=abcdef123456abcdef123456abcdef12;my_name=Александр
+session_name=sender2;api_id=654321;api_hash=123456abcdef123456abcdef123456ab;my_name=Ольга
